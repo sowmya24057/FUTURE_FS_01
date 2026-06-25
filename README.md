@@ -3,9 +3,6 @@
 
 A modern and responsive personal portfolio website built using React, Vite, TypeScript, and TanStack Start.
 
-## 🌐 Live Demo
-
-👉 https://your-vercel-link.vercel.app
 
 ## ✨ Features
 
